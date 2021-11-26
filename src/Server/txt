@@ -1,0 +1,21 @@
+USER - Authentication username.☑️
+
+PASS - Authentication password.☑️
+
+PASV - Enter passive mode.☑️
+
+QUIT - Disconnect.☑️
+
+PORT - Specifies an address and port to which the server should connect.☑️
+
+TYPE - Sets the transfer mode (ASCII /Binary).☑️
+
+MODE - Sets the transfer mode (不必实现)☑️.
+
+STRU - Set file transfer structure.☑️
+
+RETR - Retrieve a copy of the file.
+
+STOR - Accept the data and to store the data as a file at the server site.☑️
+
+NOOP - No operation (dummy packet; used mostly on keepalives).
